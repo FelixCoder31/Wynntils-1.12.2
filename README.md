@@ -1,23 +1,21 @@
-## Simple Voice Chat - A working voice chat in Minecraft!
-
-### Features
-    Push to talk
-    Voice activation
-    Proximity voice chat
-    Password protected group chats
-    Opus codec
-    RNNoise recurrent neural network noise suppression
-    OpenAL audio
-    Cross compatibility between Fabric, NeoForge, Forge, Quilt, Bukkit, Spigot and Paper
-    Support for Velocity, BungeeCord and Waterfall
-    Compatibility with ModMenu (Use ClothConfig for a better configuration UI)
-    Configurable push to talk key
-    Microphone test playback
-    Configurable voice distance
-    Whispering
-    Individual player volume adjustment
-    Microphone amplification
-    3D sound
-    AES encryption
-    Audio recording with separate audio tracks
-    A powerful API
+## FEATURES
+- Customizable HUD Overlays
+- Advanced Inventory System
+- Revamp of the QuestBook
+- Mob filter on Wars to reduce lag
+- Daily Reminders
+- Chat Spam filter, Automatic Wynnic translation, and mentions
+- Advanced Wynncraft Discord Rich Presence
+- Improved Resource Pack Loading
+- Automatic Updater
+- Little bug fixes (come from Wynn Extra Fix)
+- Advanced Configurations (50% done)
+- Advanced Item Lore
+- Some other little tweaks
+- Revamped Music System
+- Item Guide
+- Item Locker
+- Custom QuestBook
+- Configurable Overlays
+- Free Capes
+- Mini Map & World Map
